@@ -4,6 +4,7 @@ Welcome page
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
   - [CSA - Assistant for saving files from Сoursera. Browser extension. JavaScript](https://github.com/lexxai/CourseraSaveAssist)
-  - [GoIT School. Course: Python Core. Team Project. Team 11](https://github.com/lexxai/goit_python_core_project_team_11)
-  - [GoIT Shcool. Course: Python Web. Homework.](https://github.com/lexxai/goit_python_web_homework)
+  - [GoIT. Course: Python Core. Team Project. Team 11](https://github.com/lexxai/goit_python_core_project_team_11)
+  - [GoIT. Course: Python Web. Homework.](https://github.com/lexxai/goit_python_web_homework)
+  - [GoIT. Course: Python Web. Team Project. Pixels](https://github.com/lexxai/goit_python_web_project_pixels_deploy)
   - [Small pet projetcs - Python programming language](https://github.com/lexxai/pet_projetcs_python)
