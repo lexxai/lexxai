@@ -3,6 +3,7 @@ Welcome page
 - [Personal Blog page](https://lexxai.blogspot.com)
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
+  - [EPAM-IT-Marathon-2024](https://github.com/lexxai/EPAM-IT-Marathon-2024)
   - [GoIT. Course: Python Data Science. Team Project. Fast Parking](https://github.com/lexxai/GoIT-DS-TeamProject-PlateN)
   - [GoIT. Course: Python Data Science. Homework](https://github.com/lexxai/goit_python_data_sciense_homework)
   - [GoIT. Course: Python Web. Team Project. Pixels](https://github.com/lexxai/goit_python_web_project_pixels_deploy)
