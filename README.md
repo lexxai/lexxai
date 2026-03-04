@@ -1,6 +1,7 @@
 Welcome page
 
 - [Personal Blog page](https://lexxai.blogspot.com)
+- [lexxai.github.io](https://lexxai.github.io/)
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
   - [Ollama DeProxy](https://github.com/lexxai/ollama-deproxy)
