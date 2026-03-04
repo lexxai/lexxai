@@ -4,6 +4,7 @@ Welcome page
 - [lexxai.github.io](https://lexxai.github.io/)
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
+  - [Blogger to GitHub Pages Sync Tool](https://github.com/lexxai/BLOG2GHP)
   - [Ollama DeProxy](https://github.com/lexxai/ollama-deproxy)
   - [Team Challenge project #1345](https://github.com/lexxai/TeamChallenge.io_1345_edu)
   - [Telegram Bot for Automatic Message Translation in Groups](https://github.com/lexxai/translator_404_bot)  
