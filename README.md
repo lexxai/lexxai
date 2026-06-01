@@ -1,13 +1,13 @@
 Welcome page
 
 - [Personal Blog page](https://lexxai.blogspot.com)
-- [lexxai.github.io](https://lexxai.github.io/)
+- [lexsysko.github.io](https://lexsysko.github.io/)
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
-  - [Django MariaDB Vector. Library: pip install django-mariadb-vector](https://github.com/lexxai/django-mariadb-vector)
-  - [Django MariaDB Vector Demo](https://github.com/lexxai/django-mariadb-vector-demo)
-  - [Blogger to GitHub Pages Sync Tool](https://github.com/lexxai/BLOG2GHP)
-  - [Ollama DeProxy](https://github.com/lexxai/ollama-deproxy)
+  - [Django MariaDB Vector. Library: pip install django-mariadb-vector](https://github.com/lexsysko/django-mariadb-vector)
+  - [Django MariaDB Vector Demo](https://github.com/lexsysko/django-mariadb-vector-demo)
+  - [Blogger to GitHub Pages Sync Tool](https://github.com/lexsysko/BLOG2GHP)
+  - [Ollama DeProxy](https://github.com/lexsysko/ollama-deproxy)
   - [Team Challenge project #1345](https://github.com/lexxai/TeamChallenge.io_1345_edu)
   - [Telegram Bot for Automatic Message Translation in Groups](https://github.com/lexxai/translator_404_bot)  
   - [Proxmox VE cluster automatic tasks helper. Proxmox API backends [https,cli,ssh]](https://github.com/lexxai/proxmox_cluster_tasks)
