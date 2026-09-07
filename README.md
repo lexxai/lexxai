@@ -4,6 +4,7 @@ Welcome page
 - [lexsysko.github.io](https://lexsysko.github.io/)
 - [List of certificates](https://lexxai.blogspot.com/p/blog-page_3.html)
 - Projetcs:
+  - [TermometerMonitor is an asynchronous Bluetooth Low Energy (BLE) environmental monitor and telemetry logger.](https://github.com/lexsysko/TermometerMonitor)
   - [Django MariaDB Vector. Library: pip install django-mariadb-vector](https://github.com/lexsysko/django-mariadb-vector)
   - [Django MariaDB Vector Demo](https://github.com/lexsysko/django-mariadb-vector-demo)
   - [Blogger to GitHub Pages Sync Tool](https://github.com/lexsysko/BLOG2GHP)
